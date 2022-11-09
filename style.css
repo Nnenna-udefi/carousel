@@ -15,15 +15,13 @@ h1{
     position: relative;
     margin: auto;
     max-height: 200px;
-    /* text-align: center; */
 }
-/* main{
+main{
     max-width: 500px;
-} */
+}
 .mySlides{
     display: none;
     margin: 0px auto;
-    /* text-align: center; */
 }
 img{
     vertical-align: middle;
